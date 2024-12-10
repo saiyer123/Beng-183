@@ -6,8 +6,11 @@ Consequences also extend to drug development, where the identification of non-co
 A striking example of such a noncoding enhancer mutation is one driving MYC overexpression that has been validated through luciferase assays-really showing off the power of AI in dissecting complex genetic interactions.
 
 ![](image9.1.jpg)
+
 Figure X: Diagram illustrating the regulatory role of enhancer and promoter interactions in oncogene activation, focusing on MYC. This includes transcriptional activation influenced by chromatin remodelers, regulatory RNAs, and extracellular signals, demonstrating how enhancer mutations can drive oncogene expression.
+
 ![](image9.2.jpg)
+
 Figure X: Experimental validation of noncoding mutations using luciferase assays. The results highlight the functional impact of mutations in regulatory regions, such as FAM76A and GFRA3, showcasing their role in gene expression and potential contributions to oncogene activation.
 
 ---
@@ -29,6 +32,7 @@ Another improvement concerns the aspect of real time that these AI models introd
 Of course, another important area in development is the models of explainable artificial intelligence. Formulation of methods for explaining the underlying reason for the prediction made by AI will instill more trust in these systems and enable applicability to precision medicine and research studies involving genomics. As these tools start getting put to use, it will be much clearer to researchers just how the non-coding areas influence health and disease, providing game-changing insights.
 
 ![](image11.1.jpg) 
+
 Figure X: Overview of the mixDIABLO workflow for multi-omics integration, showing steps from input datasets through preprocessing, data exploration using PCA, and discriminant analysis to generate outputs like multi-omic biomarker panels and visualizations such as correlation circles and heatmaps.
 
 ---
