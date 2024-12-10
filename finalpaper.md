@@ -1,3 +1,8 @@
+# Detecting Non-coding Mutations with AI
+Team 26: Alan Li, Dennis Chan, Sahil Iyer
+
+
+
 ### Real-World Impacts of AI in Noncoding Mutations
 
 AI is changing our understanding of the noncoding genome regions, at one time referred to as "junk DNA," to recognize their key roles in both disease and regulatory mechanisms. The same AI has been instrumental in cancer genomics, where it has uncovered such mutations in enhancers or promoters serving to upregulate oncogenes, including that now well-recognized TERT promoter mutation contributing to uncontrolled cellular proliferation. Consequently, AI has made research into rare diseases possible by revealing non-coding mutations involved in diseases such as Rett Syndrome and autism. These advances, while continuing to improve our understanding of the mechanisms behind the disease, also point toward possible diagnostic and therapeutic directions.
