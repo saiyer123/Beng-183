@@ -22,6 +22,15 @@ Lastly, High-throughput sequencing produces massive datasets, and analyzing nonc
 
 In the image you can see that there is a  chart showing the genomic distribution of mutations, coding vs. noncoding
 
+### DeepSEA: Predicting Functional Impact of Noncoding Variants
+
+DeepSEA is an advanced tool designed to predict chromatin accessibility, transcription factor binding, and histone modifications. It operates by analyzing 1,000-base-pair genomic sequences with or without mutations as input. Using convolutional neural networks the model identifies sequence features linked to epigenetic changes and outputs the probability of functional disruption caused by mutations. A notable application of DeepSEA is in cancer genomics, where it is used to identify noncoding driver mutations that may contribute to disease. The architecture of DeepSEA’s CNN includes an input layer that encodes sequences as one-hot vectors, convolutional layers that detect sequence motifs, and an output layer that predicts changes in chromatin accessibility or transcription factor binding. This integration of AI into genomics enables researchers to better understand the functional impact of noncoding mutations.
+
+![](image3.jpg)
+
+This image demonstrates the DeepSEA segmentation model, which processes input phase-contrast images to identify and segment cellular components, producing outputs like edge masks and cell body masks.
+
+
 
 ### Real-World Impacts of AI in Noncoding Mutations
 
