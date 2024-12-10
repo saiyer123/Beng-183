@@ -1,7 +1,7 @@
 # Detecting Non-coding Mutations with AI
 ### Team 26: Alan Li, Dennis Chan, Sahil Iyer
 
-
+---
 
 ### Real-World Impacts of AI in Noncoding Mutations
 
