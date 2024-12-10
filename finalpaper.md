@@ -6,7 +6,7 @@
 
 The human genome is around 98% noncoding DNA. This Includes enhancers, promoters, introns, and other regulatory regions. It is thought to control when and where genes are expressed. Noncoding mutations may disrupt regulatory networks, leading to diseases such as cancer, neurological disorders, and developmental abnormalities. The TERT promoter mutation is an example of this that activates telomerase expression in cancer cells. Enhancers regulate transcription by acting over large distances, while promoters, located closer to genes, are essential for initiating transcription. Mutations in these critical regions can disrupt transcription factor binding, altering gene expression. Additionally, epigenetic marks such as histone acetylation further influence noncoding DNA function by modifying its regulatory activity.
 
-![](image)
+![](image1.jpg)
 
 In the image you can see how it illustrates how enhancers, which are often located far from their target genes, interact with promoters and transcription machinery through DNA looping to regulate gene expression.
 
