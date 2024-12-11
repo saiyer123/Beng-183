@@ -70,7 +70,7 @@ DeepSEA is an advanced tool designed to predict chromatin accessibility, transcr
 
 <img src="image3.jpg" alt="Description of the image" width="400"/>
 
-Figure 5 demonstrates the DeepSEA segmentation model, which processes input phase-contrast images to identify and segment cellular components, producing outputs like edge masks and cell body masks.
+Figure 6 demonstrates the DeepSEA segmentation model, which processes input phase-contrast images to identify and segment cellular components, producing outputs like edge masks and cell body masks.
 
 ### Real-World Impacts of AI in Noncoding Mutations
 
