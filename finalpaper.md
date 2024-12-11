@@ -80,11 +80,11 @@ Consequences also extend to drug development, where the identification of non-co
 
 ![](image9.1.jpg)
 
-Figure X: Diagram illustrating the regulatory role of enhancer and promoter interactions in oncogene activation, focusing on MYC. This includes transcriptional activation influenced by chromatin remodelers, regulatory RNAs, and extracellular signals, demonstrating how enhancer mutations can drive oncogene expression.
+Figure 7: Diagram illustrating the regulatory role of enhancer and promoter interactions in oncogene activation, focusing on MYC. This includes transcriptional activation influenced by chromatin remodelers, regulatory RNAs, and extracellular signals, demonstrating how enhancer mutations can drive oncogene expression.
 
 ![](image9.2.jpg)
 
-Figure X: Experimental validation of noncoding mutations using luciferase assays. The results highlight the functional impact of mutations in regulatory regions, such as FAM76A and GFRA3, showcasing their role in gene expression and potential contributions to oncogene activation.
+Figure 8: Experimental validation of noncoding mutations using luciferase assays. The results highlight the functional impact of mutations in regulatory regions, such as FAM76A and GFRA3, showcasing their role in gene expression and potential contributions to oncogene activation.
 
 ### Current Limitations of AI in Noncoding Genomics
 
@@ -102,7 +102,7 @@ Of course, another important area in development is the models of explainable ar
 
 ![](image11.1.jpg)
 
-Figure X: Overview of the mixDIABLO workflow for multi-omics integration, showing steps from input datasets through preprocessing, data exploration using PCA, and discriminant analysis to generate outputs like multi-omic biomarker panels and visualizations such as correlation circles and heatmaps.
+Figure 9: Overview of the mixDIABLO workflow for multi-omics integration, showing steps from input datasets through preprocessing, data exploration using PCA, and discriminant analysis to generate outputs like multi-omic biomarker panels and visualizations such as correlation circles and heatmaps.
 
 ### Summary and Takeaways
 
