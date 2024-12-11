@@ -86,15 +86,11 @@ Figure X: Diagram illustrating the regulatory role of enhancer and promoter inte
 
 Figure X: Experimental validation of noncoding mutations using luciferase assays. The results highlight the functional impact of mutations in regulatory regions, such as FAM76A and GFRA3, showcasing their role in gene expression and potential contributions to oncogene activation.
 
----
-
 ### Current Limitations of AI in Noncoding Genomics
 
 There are a few major limitations to AI in noncoding genomics. First, there is a real risk of bias within the data. The training datasets are usually biased toward well-annotated populations or genomic regions, thus reducing the power of AI models. This may result in mistakes or the loss of signals while applying the models to a diverse population or less-well-characterized regions of the genome. Types of machine learning biases included prejudice, sample, measurement, exclusion, and algorithm biases. Another limitation is the interpretability and explainability of the models of artificial intelligence, specifically for those relying on complex architecture, such as CNNs. This often means the models act like "black boxes" in which it always remains hard for the researchers to understand the actual basis for their predictions.
 
 Experimental validation also poses a considerable barrier. While artificial intelligence is able to predict functional noncoding mutations, experimental validation requires long and tedious methods such as CRISPR or luciferase assays. Without robust validation, the reliability of AI-driven insights is yet to be determined. Such challenges call for the development of explainable AI approaches, such as attention mechanisms that could highlight which genomic regions most influence the model predictions. Explainable AI holds potential for improvement in interpretability, thus informing key regions for experimental follow-up and consequently overcoming a lot of the current limitations to make AI predictions actionable.
-
----
 
 ### Next Steps
 
@@ -107,8 +103,6 @@ Of course, another important area in development is the models of explainable ar
 ![](image11.1.jpg)
 
 Figure X: Overview of the mixDIABLO workflow for multi-omics integration, showing steps from input datasets through preprocessing, data exploration using PCA, and discriminant analysis to generate outputs like multi-omic biomarker panels and visualizations such as correlation circles and heatmaps.
-
----
 
 ### Summary and Takeaways
 
