@@ -42,14 +42,17 @@ Noncoding DNA, once dismissed as "junk," is now recognized as crucial for gene r
 #### GWAS & AI for Noncoding Regions
 
 <img src="assets/GWAS_enhancer_mutations.png" width="400"/>
+Figure 3
 
 A GWAS study by Zhu et al. (2024) investigated mutations in conserved enhancer-like elements (ELEs), identifying 313 ELEs with regulatory activity across species. These ELEs showed enrichment in tissue-specific heritability and causal variants for complex traits, prioritizing genes for conditions like BMI and schizophrenia previously missed by GWAS. AI further enhances this analysis by processing large datasets to predict noncoding region function and mutation impact.
 
 <img src="assets/AI_noncoding_mystery.png" width="400"/>
+Figure 4
 
 #### CNNs for Enhancer Prediction
 
 <img src="assets/CNN_genomic_sequence.png" width="400"/>
+Figure 5
 
 Convolutional Neural Networks (CNNs) excel at predicting enhancer regions. DeepEnhancer (Min et al., 2017), for example, uses CNNs trained on FANTOM5 and ENCODE data to outperform traditional methods and identify key sequence motifs, highlighting the power of deep learning in genomic analysis.
 
