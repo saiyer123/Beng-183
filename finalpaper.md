@@ -23,7 +23,7 @@ The human genome is around 98% noncoding DNA. This Includes enhancers, promoters
 
 <img src="image1.jpg" alt="Illustration of DNA regions" width="400"/>
 
-In the image you can see how it illustrates how enhancers, which are often located far from their target genes, interact with promoters and transcription machinery through DNA looping to regulate gene expression.
+In figure 1 you can see how it illustrates how enhancers, which are often located far from their target genes, interact with promoters and transcription machinery through DNA looping to regulate gene expression.
 
 ### Why Are Noncoding Mutations Hard to Study?
 
