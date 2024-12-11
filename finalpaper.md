@@ -74,3 +74,11 @@ Figure X: Overview of the mixDIABLO workflow for multi-omics integration, showin
 ### Summary and Takeaways 
 
 AI will finally unlock the true potential of the noncoding genome to be therapeutically translated with wide-ranging implications for precision medicine and genetic research. AI has started to revolutionize the knowledge of cancer and rare disease mechanisms and the identification of therapeutic targets by characterization of non-coding mutations and deciphering their functional consequences. While challenges still exist regarding data bias, model interpretability, and required experimental validations, efforts toward explainable AI and multi-omics integration are very promising in solving these issues. The greater the inclusiveness of AI in the fulfillment of non-coding genomics, the greater the investments that have to be made in data, explanation of models, and details of experimental procedures. With the help of prediction and validation, much can be learned about functional non-coding mutations; these can probably also revolutionize diagnosis and therapy in the field of complex diseases. The better AI gets, the more likely this field of study at the crossroads of AI and genomics will lead to new concepts being discovered and opening new therapeutic options.
+
+### References
+1. [Zhu, X., Ma, S., & Wong, W. H. (2024). Genetic effects of sequence-conserved enhancer-like elements on human complex traits. *Genome Biology, 25*(1), 1–20.)](https://doi.org/10.1186/s13059-023-03142-1)
+
+2. [Min, X., Zeng, W., Chen, S., & Chen, N. (2017). DeepEnhancer: Predicting enhancers by convolutional neural networks. *Bioinformatics, 33*(21), 3482–3490.)](https://doi.org/10.1109/BIBM.2016.7822593)
+
+3. [Quang, D., Chen, Y., & Xie, X. (2015). DANN: A deep learning approach for annotating the pathogenicity of genetic variants. *Nature Methods, 12*(10), 931–933.)](https://doi.org/10.1038/nmeth.3545)
+
