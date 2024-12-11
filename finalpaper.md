@@ -33,7 +33,7 @@ The Genome-Wide Association Studies have identified thousands of noncoding varia
 
 <img src="image2.jpg" alt="Description of the image" width="400"/>
 
-In the image you can see that there is a chart showing the genomic distribution of mutations, coding vs. noncoding
+In figure 2 you can see that there is a chart showing the genomic distribution of mutations, coding vs. noncoding
 
 ### AI-Driven Analysis of Noncoding Genomic Regions
 
